@@ -1,0 +1,42 @@
+.contentCenter{
+    justify-content: center;
+    text-align: center;
+}
+ 
+
+.setVisibility{
+    z-index: -1;
+    
+}
+.shadow{
+    text-shadow: 2px 2px 5px rgb(251, 23, 7);
+}
+
+
+.font style{
+    font-style:italic;
+}
+.card:hover{
+    transform:scale(1.1);
+    filter:brightness(70%);}
+
+
+    .radious{
+        border-radius: 20px;
+        transition-duration: 0.4s;
+        border-radius: 40px;
+        border: 0;
+        font-size: medium;
+        padding: 1rem 2rem;
+        white-space: nowrap;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+      
+        
+    .backcolour{
+            background-color:rgb(78,129,240); 
+    }           
+ 
+
+
